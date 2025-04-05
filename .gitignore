@@ -1,0 +1,36 @@
+# Python virtual environment
+.venv/
+venv/
+ENV/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# macOS specific files
+.DS_Store
+
+# Local development settings
+.env
+.env.local
+
+# Chrome DB data (if needed to be excluded)
+# chromadb/
+
+# Nested repository
+enterprise-rag-ui/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
