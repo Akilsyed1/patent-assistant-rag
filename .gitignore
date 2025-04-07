@@ -27,7 +27,7 @@ build/
 # chromadb/
 
 # Nested repository
-enterprise-rag-ui/
+# enterprise-rag-ui/
 
 # IDE specific files
 .idea/
